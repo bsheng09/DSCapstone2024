@@ -1,2 +1,3 @@
 # DSCapstone2024
-Data Science Capstone Project 
+Bridget Sheng Data Science Capstone Project Folder 
+Spring 2024
